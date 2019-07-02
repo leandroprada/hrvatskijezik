@@ -1,6 +1,6 @@
 <?php
 
-$servername = "localhost";
+$servername = "162.243.168.196";
 $dBUsername = "root";
 $dBPassword = "Malonasima01";
 $dBName = "jezik";
