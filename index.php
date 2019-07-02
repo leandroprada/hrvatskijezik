@@ -8,7 +8,7 @@ $dBName = "jezik";
 $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName);
 
 if ($conn) {
-	echo ("Connection success: ".mysqli_connect_errno());
+	die("Connection success: ".mysqli_connect_errno());
 } else {
 	die("Connection failed: ".mysqli());
 }
