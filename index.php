@@ -54,7 +54,7 @@
 								<h3>
 									<?php
 
-									$sql = 'SELECT * FROM users';
+									$sql = 'SELECT * FROM users;';
 									echo $sql;
 echo $sql;
 									if (!$conn) {
