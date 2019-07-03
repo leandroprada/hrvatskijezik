@@ -53,6 +53,10 @@
 							<li>
 								<h3>
 									<?php
+
+									$sql = 'SELECT * FROM users';
+									echo $sql;
+echo $sql;
 									if (!$conn) {
 										echo "La Base FUNCIONA";
 									} else {
