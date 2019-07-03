@@ -39,18 +39,6 @@
 		$dBName = "jezik";
 
 		$conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dBName);
-
-		if (!$conn) {
-			echo "NO FUNCIONO";
-		} else {
-			echo "
-		html
-
-
-
-
-			";
-		}
 		?>
 
 		<header id="header">
@@ -62,6 +50,23 @@
 					<nav id="nav-menu-container">
 						<ul class="nav-menu">
 							<li><a href="index.html">Home</a></li>
+							<li>
+								<h3>
+									<?php
+									if (!$conn) {
+										echo "La Base FUNCIONA";
+									} else {
+										echo "
+									La base NO FUNCIONA
+
+
+
+
+										";
+									}
+ ?>
+								</h3>
+							</li>
 							<li><a href="about.html">About</a></li>
 							<li><a href="services.html">Services</a></li>
 							<li><a href="portfolio.html">Portfolio</a></li>
