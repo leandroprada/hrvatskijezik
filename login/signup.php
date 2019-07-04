@@ -2,14 +2,13 @@
  session_start();
  $_SESSION['username'] = $_POST['username'];
  if (($_POST['username']) == "autorizado") {
-	 echo "hay usuario";
 	 header("Location: ../index.php");
 	 
 	 
  }
  else {
-	 echo "no hay usuario";
-	 header("Location: ../portfolio.html");
+	 
+	 header("Location: ../login/login.php");
  }
 	 
  
