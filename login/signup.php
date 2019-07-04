@@ -3,7 +3,7 @@
  
  if (($_POST['username']) == "autorizado") {
 	 echo "hay usuario";
-	 header("Location: ../index.html");
+	 header("Location: ../index.php");
 	 
 	 
  }
