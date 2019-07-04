@@ -53,21 +53,29 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="index.html">Home</a></li>
-			          <li><a href="about.html">About</a></li>
-			          <li><a href="services.html">Services</a></li>
-			          <li><a href="portfolio.html">Portfolio</a></li>
-			          <li><a href="price.html">Pricing</a></li>
-			          <li class="menu-has-children"><a href="">Blog</a>
+			          <li><a href="index.html">Inicio</a></li>
+			          <li><a href="about.html">El curso</a></li>
+			          <li><a href="services.html">Servicios</a></li>
+			          /* <li><a href="portfolio.html">Portfolio</a></li>
+			          <li><a href="price.html">Pricing</a></li> */
+			          <li class="menu-has-children"><a href="">Lecciones</a>
 			            <ul>
-			              <li><a href="blog-home.html">Blog Home</a></li>
-			              <li><a href="blog-single.html">Blog Single</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              <li><a href="blog-home.html">1 - Tema1</a></li>
+			              
 			            </ul>
 			          </li>	
-			          <li class="menu-has-children"><a href="">Pages</a>
+			          <li class="menu-has-children"><a href="">Recursos</a>
 			            <ul>
-		            	  <li><a href="elements.html">Elements</a></li>
-				          <li class="menu-has-children"><a href="">Level 2 </a>
+		            	  <li><a href="elements.html">Diccionario</a></li>
+				          <li class="menu-has-children"><a href="">Links </a>
 				            <ul>
 				              <li><a href="#">Item One</a></li>
 				              <li><a href="#">Item Two</a></li>
@@ -87,10 +95,10 @@
 				<div class="container">
 					<div class="row fullscreen align-items-center justify-content-between">
 						<div class="col-lg-6 col-md-6 banner-left">
-							<h6>This is me</h6>
-							<h1>Philip Gilbert</h1>
+							<h6>Bienvenidos a </h6>
+							<h1>La Lengua Croata</h1>
 							<p>
-								You will begin to realise why this exercise is called the Dickens Pattern with reference to the ghost showing Scrooge some different futures.
+								En este curso podrás ir a tu propio ritmo aprendiendo.
 							</p>
 							<a href="#" class="primary-btn text-uppercase">discover now</a>
 						</div>
