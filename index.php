@@ -1,7 +1,7 @@
 <?php
  session_start();
  
- if (($_POST['username']) != "autorizado") {
+ if (($_SESSION['username']) != "autorizado") {
 	
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
 	 header("Location: ../portfolio.html");
