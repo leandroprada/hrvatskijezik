@@ -39,7 +39,11 @@ $_SESSION['username'] = $_POST['username'];
 			<div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
 				<form class="login100-form validate-form flex-sb flex-w" action="signup.php" method="post">
 					<span class="login100-form-title p-b-32">
-						Account Login
+						INICIO DE SESI&Oacute;N - <?php
+													 if (($_SESSION['username']) != "autorizado") {
+													 echo "POR FAVOR INGRESE UN USUARIO AUTORIZADO";}
+																									 				 
+													?>
 					</span>
 
 					<span class="txt1 p-b-11">
