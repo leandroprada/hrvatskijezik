@@ -1,7 +1,7 @@
 <?php
  session_start();
  
- if (if($_POST['username']) == "autorizado") {
+ if (($_POST['username']) == "autorizado") {
 	 echo "hay usuario";
 	 header("Location: ../index.html");
 	 
