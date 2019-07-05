@@ -54,10 +54,6 @@
 					<div class="row fullscreen align-items-center justify-content-between">
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>Bienvenidos a </h6>
-							<?php
-							require '../login/signup.php';
-							echo $username;
-							?>
 							<h1>La Lengua Croata</h1>
 							<p>
 								En este curso podrás ir a tu propio ritmo aprendiendo.
