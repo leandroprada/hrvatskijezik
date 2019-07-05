@@ -1,14 +1,6 @@
 <?php
  session_start();
-  /* if (($_POST['username']) == "autorizado") {
-	 header("Location: ../index.php");
-		 
- }
- else {
-	 
-	 header("Location: ../login/login.php");
- }
- */	
+ 
 require 'dbconn.inc.php';
  
  $username = $_POST['username'];
@@ -16,7 +8,7 @@ require 'dbconn.inc.php';
  $stmt = mysqli_stmt_init($conn);
  
  if (!mysqli_stmt_prepare($stmt, $sql)){
-	  header("Location: login.php");
+	  header("Location: login.php?error=wrongusername");
 	  echo "no estas conectado";
 	  exit();
 	  }
@@ -26,10 +18,10 @@ require 'dbconn.inc.php';
 		  mysqli_stmt_store_result($stmt);
 		  $resultCheck = mysqli_stmt_num_rows($stmt);
 		  if ($resultCheck = 1) {
-			   header("Location: ../index.php");
+			   header("Location: ../index.php?sucesslogin=true");
 		  }
 		  else {
-			  // header("Location: ../login/login.php");
+			  header("Location: login.php?error=sqlcouldnotexecute");
 		  }
 		  
 	  }

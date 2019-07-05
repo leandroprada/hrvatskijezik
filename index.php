@@ -47,7 +47,7 @@
 		</head>
 		<body>	
 		<?php require "header.php";
-		echo $sql;
+		echo $username;
 		?>
 		
 			<!-- start banner Area -->
