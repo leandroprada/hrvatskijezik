@@ -26,7 +26,7 @@ require 'dbconn.inc.php';
 		  mysqli_stmt_store_result($stmt);
 		  $resultCheck = mysqli_stmt_num_rows($stmt);
 		  if ($resultCheck = 1) {
-			   header("Location: ../index.php");
+			   header("Location: ../../lap/index.html");
 		  }
 		  else {
 			  // header("Location: ../login/login.php");
