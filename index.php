@@ -1,7 +1,7 @@
 <?php
  session_start();
  
- if (($_SESSION['username']) != "autorizado") {
+ if (($_SESSION['username']) != $_POST['username') {
 	
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
 	 // header("Location: ../login/signup.php");
@@ -55,8 +55,8 @@
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>Bienvenidos a </h6>
 							<?php
-							require 'dbconn.inc.php';
-							echo $stmt;
+							
+							echo $username;
 							?>
 							<h1>La Lengua Croata</h1>
 							<p>
