@@ -1,7 +1,7 @@
 <?php
  session_start();
  
- if ($_GET['successlogin'] != 'true') {
+ if ($_GET['successlogin'] != true) {
 	
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
 	  header("Location: ./login/login.php");
