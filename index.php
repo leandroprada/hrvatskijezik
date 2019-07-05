@@ -47,7 +47,7 @@
 		</head>
 		<body>	
 		<?php require "header.php";
-		echo $username;
+		var_dump($stmt);
 		?>
 		
 			<!-- start banner Area -->
