@@ -4,7 +4,7 @@
  if (($_SESSION['username']) != "autorizado") {
 	
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
-	 header("Location: ../login/signup.php");
+	 // header("Location: ../login/signup.php");
  }
 	 
  
