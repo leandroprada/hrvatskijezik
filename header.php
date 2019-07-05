@@ -1,4 +1,4 @@
-
+<?php echo
 
 
   <header id="header">
@@ -45,5 +45,5 @@
 		    	</div>
 		    </div>
 		  </header><!-- #header -->
-
+;?>
 

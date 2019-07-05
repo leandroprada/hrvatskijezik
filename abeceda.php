@@ -90,7 +90,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p1.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p1.png" class="img-pop-up">	
+									<a href="img/slova/p-1.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -103,7 +103,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p2.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p2.png" class="img-pop-up">	
+									<a href="img/slova/p-2.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -116,7 +116,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p3.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p3.png" class="img-pop-up">	
+									<a href="img/slova/p-3.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -129,7 +129,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p4.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p4.png" class="img-pop-up">	
+									<a href="img/slova/p-4.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -142,7 +142,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p5.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p5.png" class="img-pop-up">	
+									<a href="img/slova/p-5.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -155,7 +155,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p6.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p6.png" class="img-pop-up">	
+									<a href="img/slova/p-6.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -169,7 +169,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p7.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p7.png" class="img-pop-up">	
+									<a href="img/slova/p-7.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -182,7 +182,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p8.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p8.png" class="img-pop-up">	
+									<a href="img/slova/p-8.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -195,7 +195,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p9.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p9.png" class="img-pop-up">	
+									<a href="img/slova/p-9.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -208,7 +208,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p10.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p10.png" class="img-pop-up">	
+									<a href="img/slova/p-10.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -221,7 +221,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p11.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p11.png" class="img-pop-up">	
+									<a href="img/slova/p-11.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -234,7 +234,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p12.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p12.png" class="img-pop-up">	
+									<a href="img/slova/p-12.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -248,7 +248,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p13.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p13.png" class="img-pop-up">	
+									<a href="img/slova/p-13.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -261,7 +261,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p14.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p14.png" class="img-pop-up">	
+									<a href="img/slova/p-14.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -274,7 +274,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p15.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p15.png" class="img-pop-up">	
+									<a href="img/slova/p-15.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -287,7 +287,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p16.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p16.png" class="img-pop-up">	
+									<a href="img/slova/p-16.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -300,7 +300,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p17.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p17.png" class="img-pop-up">	
+									<a href="img/slova/p-17.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -327,7 +327,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p19.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p19.png" class="img-pop-up">	
+									<a href="img/slova/p-19.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -340,7 +340,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p20.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p20.png" class="img-pop-up">	
+									<a href="img/slova/p-20.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -353,7 +353,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p21.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p21.png" class="img-pop-up">	
+									<a href="img/slova/p-21.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -366,7 +366,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p22.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p22.png" class="img-pop-up">	
+									<a href="img/slova/p-22.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -379,7 +379,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p23.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p23.png" class="img-pop-up">	
+									<a href="img/slova/p-23.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -392,7 +392,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p24.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p24.png" class="img-pop-up">	
+									<a href="img/slova/p-24.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -406,7 +406,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p25.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p25.png" class="img-pop-up">	
+									<a href="img/slova/p-25.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -419,7 +419,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p26.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p26.png" class="img-pop-up">	
+									<a href="img/slova/p-26.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -432,7 +432,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p27.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p27.png" class="img-pop-up">	
+									<a href="img/slova/p-27.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -445,7 +445,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p28.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p28.png" class="img-pop-up">	
+									<a href="img/slova/p-28.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -458,7 +458,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p29.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p29.png" class="img-pop-up">	
+									<a href="img/slova/p-29.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
@@ -471,7 +471,7 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/slova/p30.jpg" alt="">
 	                            	</div>
-									<a href="img/slova/p30.png" class="img-pop-up">	
+									<a href="img/slova/p-30.png" class="img-pop-up">	
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/slova/preview.png" alt=""></div>
 									  </div>
