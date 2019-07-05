@@ -1,10 +1,10 @@
 <?php
  session_start();
  
- if (($_SESSION['username']) != $_POST['username') {
+ if (($_SESSION['username']) != $username) {
 	
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
-	 // header("Location: ../login/signup.php");
+	  header("Location: ./login/login.php");
  }
 	 
  
