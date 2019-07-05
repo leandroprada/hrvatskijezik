@@ -9,7 +9,7 @@
 			          <li><a href="index.html">Inicio</a></li>
 			          <li><a href="about.html">El curso</a></li>
 			          <li><a href="services.html">Servicios</a></li>
-			          <li><a href="Abeceda.html">Abecedario</a></li>
+			          <li><a href="abeceda.php">Abecedario</a></li>
 			          /* <li><a href="price.html">Pricing</a></li> */
 			          <li class="menu-has-children"><a href="">Lecciones</a>
 			            <ul>
