@@ -55,7 +55,7 @@
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>Bienvenidos a </h6>
 							<?php
-							
+							require '../login/signup.php';
 							echo $username;
 							?>
 							<h1>La Lengua Croata</h1>
