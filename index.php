@@ -1,13 +1,13 @@
 <?php
  session_start();
- 
- if (isset($_GET['login'])) {
-	
+
+ if (($_GET['login']) != 'successful') {
+
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
 	  header("Location: ./login/login.php");
  }
-	 
- 
+
+
 ?>
 
 
@@ -27,11 +27,11 @@
 		<meta name="keywords" content="">
 		<!-- meta character set -->
 		<meta charset="UTF-8">
-		<body>	
+		<body>
 		<title>Personal</title>
 		<!-- Site Title -->
 
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 			<!--
 			CSS
 			============================================= -->
@@ -39,17 +39,17 @@
 			<link rel="stylesheet" href="css/font-awesome.min.css">
 			<link rel="stylesheet" href="css/bootstrap.css">
 			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/jquery-ui.css">				
-			<link rel="stylesheet" href="css/nice-select.css">							
+			<link rel="stylesheet" href="css/jquery-ui.css">
+			<link rel="stylesheet" href="css/nice-select.css">
 			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">				
+			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
 		</head>
-		<body>	
+		<body>
 		<?php require "header.php";
-		
+
 		?>
-		
+
 			<!-- start banner Area -->
 			<section class="banner-area">
 				<div class="container">
@@ -57,9 +57,9 @@
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>Bienvenidos a </h6>
 							<h1>La Lengua Croata</h1>
-							
-							
-							
+
+
+
 							<p>
 								En este curso podrás ir a tu propio ritmo aprendiendo.
 							</p>
@@ -69,7 +69,7 @@
 							<img class="img-fluid" src="img/hero-img.png" alt="">
 						</div>
 					</div>
-				</div>					
+				</div>
 			</section>
 			<!-- End banner Area -->
 
@@ -89,7 +89,7 @@
 							<a href="#" class="primary-btn text-uppercase">View Full Details</a>
 						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
 			<!-- End home-about Area -->
 
@@ -103,7 +103,7 @@
 		                        <p>At about this time of year, some months after New Year’s resolutions have been made and kept, or made and neglected.</p>
 		                    </div>
 		                </div>
-		            </div>						
+		            </div>
 					<div class="row">
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
@@ -130,7 +130,7 @@
 								<p>
 									Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills.
 								</p>
-							</div>	
+							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
@@ -157,16 +157,16 @@
 								<p>
 									You’ve heard the expression, “Just believe it and it will come.” Well, technically, that is true, however, ‘believing’ is not just thinking that.
 								</p>
-							</div>				
-						</div>														
+							</div>
+						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
-			<!-- End services Area -->	
+			<!-- End services Area -->
 
 			<!-- Start fact Area -->
 			<section class="facts-area section-gap" id="facts-area">
-				<div class="container">				
+				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-6 single-fact">
 							<h1 class="counter">2536</h1>
@@ -179,15 +179,15 @@
 						<div class="col-lg-3 col-md-6 single-fact">
 							<h1 class="counter">2239</h1>
 							<p>Cups of Coffee</p>
-						</div>	
+						</div>
 						<div class="col-lg-3 col-md-6 single-fact">
 							<h1 class="counter">435</h1>
 							<p>Real Professionals</p>
-						</div>												
+						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
-			<!-- end fact Area -->	
+			<!-- end fact Area -->
 
 			<!-- Start portfolio-area Area -->
             <section class="portfolio-area section-gap" id="portfolio">
@@ -200,7 +200,7 @@
 		                    </div>
 		                </div>
 		            </div>
-                    
+
                     <div class="filters">
                         <ul>
                             <li class="active" data-filter="*">All</li>
@@ -210,7 +210,7 @@
                             <li data-filter=".printing">Printing</li>
                         </ul>
                     </div>
-                    
+
                     <div class="filters-content">
                         <div class="row grid">
                             <div class="single-portfolio col-sm-4 all vector">
@@ -219,16 +219,16 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/p1.jpg" alt="">
 	                            	</div>
-									<a href="img/p1.jpg" class="img-pop-up">	
+									<a href="img/p1.jpg" class="img-pop-up">
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/preview.png" alt=""></div>
 									  </div>
-								</a>                              		
+								</a>
                             	</div>
 								<div class="p-inner">
 								    <h4>2D Vinyl Design</h4>
 									<div class="cat">vector</div>
-								</div>					                               
+								</div>
                             </div>
                             <div class="single-portfolio col-sm-4 all raster">
                             	<div class="relative">
@@ -236,29 +236,29 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/p2.jpg" alt="">
 	                            	</div>
-									<a href="img/p2.jpg" class="img-pop-up">	
+									<a href="img/p2.jpg" class="img-pop-up">
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/preview.png" alt=""></div>
 									  </div>
-								</a>                              		
+								</a>
                             	</div>
 								<div class="p-inner">
 								    <h4>2D Vinyl Design</h4>
 									<div class="cat">vector</div>
-								</div>					                               
-                            </div>                            
+								</div>
+                            </div>
                             <div class="single-portfolio col-sm-4 all ui">
                             	<div class="relative">
 	                            	<div class="thumb">
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/p3.jpg" alt="">
 	                            	</div>
-									<a href="img/p3.jpg" class="img-pop-up">	
+									<a href="img/p3.jpg" class="img-pop-up">
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/preview.png" alt=""></div>
 									  </div>
-									</a> 
-	                            		
+									</a>
+
 	                           	</div>
                                 <div class="p-inner">
                                     <h4>Creative Poster Design</h4>
@@ -271,12 +271,12 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/p4.jpg" alt="">
 	                            	</div>
-									<a href="img/p4.jpg" class="img-pop-up">	
+									<a href="img/p4.jpg" class="img-pop-up">
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/preview.png" alt=""></div>
 									  </div>
-									</a>                            		
-                            	</div> 
+									</a>
+                            	</div>
                                 <div class="p-inner">
                                     <h4>Embosed Logo Design</h4>
                                     <div class="cat">Portal</div>
@@ -288,11 +288,11 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/p5.jpg" alt="">
 	                            	</div>
-									<a href="img/p5.jpg" class="img-pop-up">	
+									<a href="img/p5.jpg" class="img-pop-up">
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/preview.png" alt=""></div>
 									  </div>
-									</a>                             		
+									</a>
                             	</div>
                                 <div class="p-inner">
                                     <h4>3D Helmet Design</h4>
@@ -305,11 +305,11 @@
 	                            		<div class="overlay overlay-bg"></div>
 	                            		 <img class="image img-fluid" src="img/p6.jpg" alt="">
 	                            	</div>
-									<a href="img/p6.jpg" class="img-pop-up">	
+									<a href="img/p6.jpg" class="img-pop-up">
 									  <div class="middle">
 									    <div class="text align-self-center d-flex"><img src="img/preview.png" alt=""></div>
 									  </div>
-									</a>                             		
+									</a>
                             	</div>
                                 <div class="p-inner">
                                     <h4>2D Vinyl Design</h4>
@@ -318,10 +318,10 @@
                             </div>
                         </div>
                     </div>
-                    
+
                 </div>
             </section>
-            <!-- End portfolio-area Area -->	
+            <!-- End portfolio-area Area -->
 
 			<!-- Start testimonial Area -->
 		    <section class="testimonial-area section-gap">
@@ -342,7 +342,7 @@
 		                        </div>
 		                        <div class="desc">
 		                            <p>
-		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.		     
+		                                Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you.
 		                            </p>
 		                            <h4>Harriet Maxwell</h4>
 		                            <p>CEO at Google</p>
@@ -365,7 +365,7 @@
 		        </div>
 		    </section>
 		    <!-- End testimonial Area -->
-		
+
 			<!-- Start price Area -->
 			<section class="price-area section-gap">
 				<div class="container">
@@ -376,7 +376,7 @@
 								<p>When someone does something that they know that they shouldn’t do, did they.</p>
 							</div>
 						</div>
-					</div>					
+					</div>
 					<div class="row">
 						<div class="col-lg-3 col-md-6 single-price">
 							<div class="top-part">
@@ -449,12 +449,12 @@
 								<h1>£499.00</h1>
 								<a class="price-btn text-uppercase" href="#">Buy Now</a>
 							</div>
-						</div>																		
+						</div>
 					</div>
-				</div>	
+				</div>
 			</section>
-			<!-- End price Area -->			
-	
+			<!-- End price Area -->
+
 			<!-- Start recent-blog Area -->
 			<section class="recent-blog-area section-gap">
 				<div class="container">
@@ -466,10 +466,10 @@
 							</p>
 						</div>
 					</div>
-					<div class="row">	
+					<div class="row">
 						<div class="single-recent-blog col-lg-4 col-md-4">
 							<div class="thumb">
-								<img class="f-img img-fluid mx-auto" src="img/b1.jpg" alt="">	
+								<img class="f-img img-fluid mx-auto" src="img/b1.jpg" alt="">
 							</div>
 							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
 								<div>
@@ -481,7 +481,7 @@
 									<span class="lnr lnr-heart"></span> 15
 									<span class="lnr lnr-bubble"></span> 04
 								</div>
-							</div>							
+							</div>
 							<a href="#">
 								<h4>Break Through Self Doubt
 								And Fear</h4>
@@ -492,7 +492,7 @@
 						</div>
 						<div class="single-recent-blog col-lg-4 col-md-4">
 							<div class="thumb">
-								<img class="f-img img-fluid mx-auto" src="img/b2.jpg" alt="">	
+								<img class="f-img img-fluid mx-auto" src="img/b2.jpg" alt="">
 							</div>
 							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
 								<div>
@@ -504,7 +504,7 @@
 									<span class="lnr lnr-heart"></span> 15
 									<span class="lnr lnr-bubble"></span> 04
 								</div>
-							</div>							
+							</div>
 							<a href="#">
 								<h4>Portable Fashion for
 								young women</h4>
@@ -515,7 +515,7 @@
 						</div>
 						<div class="single-recent-blog col-lg-4 col-md-4">
 							<div class="thumb">
-								<img class="f-img img-fluid mx-auto" src="img/b3.jpg" alt="">	
+								<img class="f-img img-fluid mx-auto" src="img/b3.jpg" alt="">
 							</div>
 							<div class="bottom d-flex justify-content-between align-items-center flex-wrap">
 								<div>
@@ -527,7 +527,7 @@
 									<span class="lnr lnr-heart"></span> 15
 									<span class="lnr lnr-bubble"></span> 04
 								</div>
-							</div>							
+							</div>
 							<a href="#">
 								<h4>Do Dreams Serve As
 								A Premonition</h4>
@@ -535,13 +535,13 @@
 							<p>
 								So many of us are demotivated to achieve anything. Such people are not enthusiastic about anything. They don’t want to work involved.
 							</p>
-						</div>												
-											
-												
+						</div>
+
+
 					</div>
-				</div>	
+				</div>
 			</section>
-			<!-- end recent-blog Area -->		
+			<!-- end recent-blog Area -->
 
 		    <!-- Start brands Area -->
 		    <section class="brands-area">
@@ -567,7 +567,7 @@
 		            </div>
 		        </div>
 		    </section>
-		    <!-- End brands Area -->			
+		    <!-- End brands Area -->
 
             <!-- start footer Area -->
             <footer class="footer-area section-gap">
@@ -595,11 +595,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									    <div class="input-group-btn">
 									      <button class="btn btn-default" type="submit">
 									        <span class="lnr lnr-arrow-right"></span>
-									      </button>    
+									      </button>
 									    </div>
-									    	<div class="info"></div>  
+									    	<div class="info"></div>
 									  </div>
-									</form> 
+									</form>
 								</div>
                             </div>
                         </div>
@@ -618,25 +618,25 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     </div>
                 </div>
             </footer>
-            <!-- End footer Area -->		
+            <!-- End footer Area -->
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="js/popper.min.js"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>			
-  			<script src="js/easing.min.js"></script>			
+			<script src="js/vendor/bootstrap.min.js"></script>
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="js/easing.min.js"></script>
 			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
+			<script src="js/superfish.min.js"></script>
 			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-    		<script src="js/jquery.tabs.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>	
-            <script src="js/isotope.pkgd.min.js"></script>			
+			<script src="js/jquery.magnific-popup.min.js"></script>
+    		<script src="js/jquery.tabs.min.js"></script>
+			<script src="js/jquery.nice-select.min.js"></script>
+            <script src="js/isotope.pkgd.min.js"></script>
 			<script src="js/waypoints.min.js"></script>
 			<script src="js/jquery.counterup.min.js"></script>
-			<script src="js/simple-skillbar.js"></script>							
-			<script src="js/owl.carousel.min.js"></script>							
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+			<script src="js/simple-skillbar.js"></script>
+			<script src="js/owl.carousel.min.js"></script>
+			<script src="js/mail-script.js"></script>
+			<script src="js/main.js"></script>
 		</body>
 	</html>
