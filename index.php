@@ -46,7 +46,9 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-		<?php require "header.php";?>
+		<?php require "header.php";
+		echo $sql;
+		?>
 		
 			<!-- start banner Area -->
 			<section class="banner-area">
@@ -55,6 +57,9 @@
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>Bienvenidos a </h6>
 							<h1>La Lengua Croata</h1>
+							
+							
+							
 							<p>
 								En este curso podrás ir a tu propio ritmo aprendiendo.
 							</p>
