@@ -18,8 +18,8 @@ require 'dbconn.inc.php';
 		  mysqli_stmt_store_result($stmt);
 		  $resultCheck = mysqli_stmt_num_rows($stmt);
 		  if ($resultCheck >= 1) {
-        $_GET['login'] = 'true';
-			   header("Location: ../index1.php?login=true");
+        $_GET['login'] = 'validated';
+			   header("Location: ../index.php?login=validated");
 		  }
 		  else {
 			  header("Location: login.php?error=sqlcouldnotexecute");
