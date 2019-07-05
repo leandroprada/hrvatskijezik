@@ -1,7 +1,7 @@
 <?php
  session_start();
 $_SESSION['username'] = $_POST['username']; 
- require '../includes/dbconn.inc.php';
+ require './includes/dbconn.inc.php';
  
  $username = $_POST['username'];
  $sql = "SELECT username FROM users WHERE username=?";
