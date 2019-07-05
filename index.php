@@ -1,7 +1,7 @@
 <?php
  session_start();
  
- if (($_SESSION['username']) != $username) {
+ if (($_SESSION['successlogin']) != 'true') {
 	
 	 echo "Su usuario NO ESTÁ AUTORIZADO";
 	  header("Location: ./login/login.php");
@@ -47,7 +47,7 @@
 		</head>
 		<body>	
 		<?php require "header.php";
-		var_dump($stmt);
+		
 		?>
 		
 			<!-- start banner Area -->
