@@ -1,10 +1,8 @@
 <?php
  session_start();
- $_SESSION['username'] = $_POST['username'];
- /* if (($_POST['username']) == "autorizado") {
+  /* if (($_POST['username']) == "autorizado") {
 	 header("Location: ../index.php");
-	 
-	 
+		 
  }
  else {
 	 
