@@ -11,7 +11,7 @@
 	 header("Location: ../login/login.php");
  }
  */	
-require '/includes/dbconn.inc.php';
+require 'dbconn.inc.php';
  
  $username = $_POST['username'];
  $sql = "SELECT username FROM users WHERE username=?";
