@@ -18,6 +18,7 @@ require 'dbconn.inc.php';
 		  mysqli_stmt_store_result($stmt);
 		  $resultCheck = mysqli_stmt_num_rows($stmt);
 		  if ($resultCheck >= 1) {
+        $_POST['login'] = 'true';
 			   header("Location: ../index1.php?sucesslogin=true");
 		  }
 		  else {

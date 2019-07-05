@@ -2,7 +2,7 @@
  session_start();
 
 
-	 var_dump($_GET['successlogin']) ;
+	 var_dump($_POST['login']) ;
 
 
 ?>
