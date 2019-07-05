@@ -45,7 +45,7 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-		<?php include 'footer.php';?>
+		<?php include 'header.php';?>
 		
 			<!-- start banner Area -->
 			<section class="banner-area">
