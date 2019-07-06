@@ -35,7 +35,7 @@ $_SESSION['username'] = $_POST['username'];
 <!--===============================================================================================-->
 </head>
 <body>
-
+<?php require "../header.php" ?>
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
