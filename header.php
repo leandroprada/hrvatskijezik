@@ -9,9 +9,7 @@
 			          <li><a href="index.php">Inicio</a></li>
 			          <li><a href="about.html">El curso</a></li>
 			          <li><a href="services.html">Servicios</a></li>
-			          <li><a href="abeceda.php">Abecedario</a></li>
-			          <li><a href="padezi.php">Declinaciones</a></li>
-			          <li class="menu-has-children"><a href="">Lecciones</a>
+			          			          <li class="menu-has-children"><a href="">Lecciones</a>
 			            <ul>
 			              <li><a href="blog-home.html">1 - Tema1</a></li>
 			              <li><a href="blog-home.html">1 - Tema1</a></li>
@@ -27,6 +25,8 @@
 			          </li>
 			          <li class="menu-has-children"><a href="">Recursos</a>
 			            <ul>
+                    <li><a href="abeceda.php">Abecedario</a></li>
+    			          <li><a href="padezi.php">Declinaciones</a></li>
                     <li><a href="elements.php">Diccionario</a></li>
 		            	  <li><a href="dobrodosli2.php">Dobro Dosli</a></li>
 				          <li class="menu-has-children"><a href="">Links </a>
