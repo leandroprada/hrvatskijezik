@@ -63,7 +63,7 @@
 							<p>
 								En este curso podrás ir a tu propio ritmo aprendiendo.
 							</p>
-							<a href="#" class="primary-btn text-uppercase">discover now</a>
+							<a href="#" class="primary-btn text-uppercase">Descubre las lecciones</a>
 						</div>
 						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
 							<img class="img-fluid" src="img/hero-img.png" alt="">
