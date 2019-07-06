@@ -58,13 +58,16 @@
 								Elements
 							</h1>
 
-							<iframe src="http://hjp.znanje.hr/index.php" style="height:85%;width:100%;"></iframe>
 
 
 						</div>
 					</div>
 				</div>
 			</section>
+
+			<iframe src="http://hjp.znanje.hr/index.php" style="height:85%;width:100%;"></iframe>
+
+
 			<!-- End banner Area -->
 
 			<!-- Start Sample Area -->
