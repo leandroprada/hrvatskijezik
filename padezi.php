@@ -53,10 +53,10 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Abecedario
+								Declinaciones
 							</h1>
 							<div class="col-10 offset-2">
-                <img class="image" src="elements/padezi.png" alt="">
+                <img class="image" src="img/elements/padezi.png" alt="">
               </div>
 						</div>
 					</div>
