@@ -1,3 +1,16 @@
+<?php
+ session_start();
+
+ if (($_SESSION['login']) !== 'validated') {
+
+	 echo "Su usuario NO ESTÁ AUTORIZADO";
+	  header("Location: ./login/login.php");
+ }
+
+
+?>
+
+
 	<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
@@ -31,7 +44,9 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>
-	
+			<?php require "header.php";
+
+			?>
 
 			<!-- start banner Area -->
 			<section class="relative about-banner" id="home">

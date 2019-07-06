@@ -27,7 +27,7 @@
 			          </li>
 			          <li class="menu-has-children"><a href="">Recursos</a>
 			            <ul>
-                    <li><a href="elements.html">Diccionario</a></li>
+                    <li><a href="elements.php">Diccionario</a></li>
 		            	  <li><a href="dobrodosli2.php">Dobro Dosli</a></li>
 				          <li class="menu-has-children"><a href="">Links </a>
 				            <ul>
