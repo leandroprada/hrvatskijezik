@@ -65,7 +65,7 @@
 				</div>
 			</section>
 
-			<iframe src="http://hjp.znanje.hr/index.php" style="height:85%;width:100%;"></iframe>
+			<iframe src="http://hjp.znanje.hr/index.php" style="height:600px;width:100%;"></iframe>
 
 
 			<!-- End banner Area -->
