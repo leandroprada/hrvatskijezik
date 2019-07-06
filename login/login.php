@@ -43,7 +43,7 @@ $_SESSION['username'] = $_POST['username'];
 					<span class="login100-form-title p-b-32">
 						INICIO DE SESI&Oacute;N - <?php
 													 if (($_SESSION['login']) != "validated") {
-													 echo "<span style="font-size:0.3em;"> usuario inv&aacute;lido - Intente nuevamente"</span>;}
+													 echo '<span style="font-size:0.3em;"> usuario inv&aacute;lido - Intente nuevamente"</span>';}
 
 													?>
 					</span>
