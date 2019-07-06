@@ -56,7 +56,7 @@
 								Declinaciones
 							</h1>
 							<div class="col-10 offset-2">
-                <img class="image" src="./img/elements/padezi.png" alt="">
+                <img class="image" src="./img/elements/padezi.jpg" alt="">
               </div>
 						</div>
 					</div>
