@@ -53,9 +53,9 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Abecedario
+								Dobro Dosli
 							</h1>
-              <iframe src="http://docs.google.com/gview?url=http://jezik.leandroprada.website/dobrodosli2.pd&embedded=true" 
+              <iframe src="http://docs.google.com/gview?url=http://jezik.leandroprada.website/dobrodosli2.pdf&embedded=true"
 style="width:600px; height:500px;" frameborder="0"></iframe>
 						</div>
 					</div>
