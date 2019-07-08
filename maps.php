@@ -133,7 +133,7 @@
 						
 						<div class="col-lg-12">
 							<div>
-								<h3 class="center">La Tierra y La Luna</h3>
+								<h3 class="center">Edificio y Departamento</h3>
 								<img class="img-fluid" src="img/maps/departamento.jpg" alt="" usemap="#image-mapde">
 								<map name="image-mapde">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
