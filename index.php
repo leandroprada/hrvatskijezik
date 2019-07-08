@@ -81,10 +81,10 @@
 								 <li>El croata es hablado principalmente en Croacia, en donde es oficial, as&iacute; como en las zonas de Bosnia y Herzegovina, Eslovenia, Serbia, Macedonia del Norte, Montenegro y Kosovo habitadas por croatas.</li>
 								 <li>El idioma croata se subdivide tres dialectos: Čakavski, Štokavski y Kajkavski. El čakavski es hablado en Istria, el golfo de Kvarner, el litoral de Dalmacia y en algunas regiones del centro de Croacia. El štokavski se habla principalmente en Dalmacia y Eslavonia, y por último, el kajkavski es hablado en el norte y noroeste de Croacia.</li>
 								 <li>El alfabeto croata es el usado en el idioma croata creado por el croata Ljudevit Gaj. Consta de 30 letras. Gaj, siguiendo el modelo checo incorporó las letras C, S, Z y Č, Š, Ž.</li>
-								 
+								 <li><span style="font-size:0.3em">Fuente Wikipedia https://es.wikipedia.org/wiki/Idioma_croata</span></li>
 							</ul>
 							<span style="font-size:0.3em">Fuente Wikipedia https://es.wikipedia.org/wiki/Idioma_croata</span>
-							<a href="#" class="primary-btn text-uppercase">View Full Details</a>
+							<a href="abeceda.php" class="primary-btn text-uppercase">Ver el Abecedario</a>
 						</div>
 					</div>
 				</div>

@@ -42,42 +42,9 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-		  <header id="header">
-		    <div class="container main-menu">
-		    	<div class="row align-items-center justify-content-between d-flex">
-			      <div id="logo">
-			        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
-			      </div>
-			      <nav id="nav-menu-container">
-			        <ul class="nav-menu">
-			          <li><a href="index.html">Home</a></li>
-			          <li><a href="about.html">About</a></li>
-			          <li><a href="services.html">Services</a></li>
-			          <li><a href="portfolio.html">Portfolio</a></li>
-			          <li><a href="price.html">Pricing</a></li>
-			          <li class="menu-has-children"><a href="">Blog</a>
-			            <ul>
-			              <li><a href="blog-home.html">Blog Home</a></li>
-			              <li><a href="blog-single.html">Blog Single</a></li>
-			            </ul>
-			          </li>	
-			          <li class="menu-has-children"><a href="">Pages</a>
-			            <ul>
-		            	  <li><a href="elements.html">Elements</a></li>
-				          <li class="menu-has-children"><a href="">Level 2 </a>
-				            <ul>
-				              <li><a href="#">Item One</a></li>
-				              <li><a href="#">Item Two</a></li>
-				            </ul>
-				          </li>					                		
-			            </ul>
-			          </li>					          					          		          
-			          <li><a href="contact.html">Contact</a></li>
-			        </ul>
-			      </nav><!-- #nav-menu-container -->		    		
-		    	</div>
-		    </div>
-		  </header><!-- #header -->
+		  <?php require "header.php";
+
+		?>
 		  
 			<!-- start banner Area -->
 			<section class="relative about-banner">	
@@ -86,9 +53,9 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Blog Details Page				
+								Imágenes				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span><a href="blog-home.html">Blog </a> <span class="lnr lnr-arrow-right"></span> <a href="blog-single.html"> Blog Details Page</a></p>
+							<p class="text-white link-nav"><a href="index.html"><a href="blog-home.html">Al pasar por cada imagen</a> <span class="lnr lnr-arrow-right"></span> <a href="blog-single.html"> Se ven los nombres</a></p>
 						</div>	
 					</div>
 				</div>
