@@ -102,7 +102,7 @@
 					<div class="row">
 						
 						<div class="col-lg-12">
-							<div class="col-lg-12 ">
+							<div >
 								<h3 class="center">Los Planetas</h3>
 								<img class="img-fluid" src="img/maps/sistemasolar.jpg" alt="" usemap="#image-mapss">
 								<map name="image-mapss">
@@ -121,7 +121,7 @@
 						</div>	
 						
 						<div class="col-lg-12">
-							<div class="col-lg-12 ">
+							<div>
 								<h3 class="center">La Tierra y La Luna</h3>
 								<img class="img-fluid" src="img/maps/tierraluna.jpg" alt="" usemap="#image-maptl">
 								<map name="image-maptl">
@@ -132,7 +132,7 @@
 						</div>	
 						
 						<div class="col-lg-12">
-							<div class="col-lg-12 ">
+							<div>
 								<h3 class="center">La Tierra y La Luna</h3>
 								<img class="img-fluid" src="img/maps/departamento.jpg" alt="" usemap="#image-mapde">
 								<map name="image-mapde">
