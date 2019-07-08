@@ -47,16 +47,16 @@
 			            </ul>
 			          </li>
 			          <li><a href="contact.html">Contact</a></li>
-			        </ul>
-					<span class="button-group-area mt-10">
+			        
+					<li><span class="button-group-area mt-10">
 						<a href="./login/logout.php" class="genric-btn info-border circle arrow">Salir<span class="lnr lnr-arrow-right"></span></a>
-					</span>
+					</span></li>
 <?php }else{ ?>
-    <span class="button-group-area mt-10">
+    <li><span class="button-group-area mt-10">
 						<a href="./login/login.php" class="genric-btn danger-border circle arrow">Ingreso<span class="lnr lnr-arrow-right"></span></a>
-	</span>
+	</span></li>
 <?php } ?>
-			      
+			      </ul>
 			      </nav><!-- #nav-menu-container -->
 		    	</div>
 		    </div>
