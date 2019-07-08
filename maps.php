@@ -125,8 +125,8 @@
 								<h3 class="center">La Tierra y La Luna</h3>
 								<img class="img-fluid" src="img/maps/tierraluna.jpg" alt="" usemap="#image-maptl">
 								<map name="image-maptl">
-								<area target="" alt="Tierra -  Zemlja" title="Tierra -  Zemlja" href="" coords="714,481,491" shape="circle">
-								<area target="" alt="Luna - Mjesec" title="Luna - Mjesec" href="" coords="1531,773,125" shape="circle">
+								<area target="" alt="La Tierra - Zemlja" title="La Tierra - Zemlja" href="" coords="355,241,238" shape="circle">
+								<area target="" alt="La Luna - Mjesec" title="La Luna - Mjesec" href="" coords="767,387,63" shape="circle">
 								</map>
 							</div>
 						</div>	
