@@ -12,9 +12,9 @@
 			      
 				  <?php if (($_SESSION['login']) == 'validated') {
 ?>
-					<div class="button-group-area mt-10">
+					<span class="button-group-area mt-10">
 						<a href="./login/logout.php" class="genric-btn primary circle">Salir</a>
-					</div>    
+					</span>    
 				<nav id="nav-menu-container button-area">	
 				<ul class="nav-menu ">
 				      <li><a href="index.php">Inicio</a></li>
