@@ -10,9 +10,13 @@
 			        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
 			      </div>
 			      <nav id="nav-menu-container">
-			        <ul class="nav-menu">
-					<?php if (($_SESSION['login']) == 'validated') {
+				  <?php if (($_SESSION['login']) == 'validated') {
 ?>
+					<div class="button-group-area mt-10">
+						<a href="./login/logout.php" class="btn info-border circle arrow">Salir<span class="lnr lnr-arrow-right"></span></a>
+					</div>			    
+				<ul class="nav-menu">
+					
 			          <li><a href="index.php">Inicio</a></li>
 					  <li><a href="about.html">El curso</a></li>
 			          <li><a href="services.html">Servicios</a></li>
@@ -44,14 +48,10 @@
 			            </ul>
 			          </li>
 			          <li><a href="contact.html">Contact</a></li>
-			        
-					<li class="button-group-area mt-10">
-						<a href="./login/logout.php" class="genric-btn info-border circle arrow">Salir<span class="lnr lnr-arrow-right"></span></a>
-					</li>
-					</ul>
+			    </ul>
 <?php }else{ ?>
     <li><p class="button-group-area mt-10">
-						<a href="./login/login.php" class="genric-btn danger-border circle arrow">Ingreso<span class="lnr lnr-arrow-right"></span></a>
+						<a href="./login/login.php" class="btn danger-border circle arrow">Ingreso<span class="lnr lnr-arrow-right"></span></a>
 	</p></li>
 <?php } ?>
 			      
