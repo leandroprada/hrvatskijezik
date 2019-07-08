@@ -7,7 +7,7 @@
 		    <div class="container main-menu">
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+			        <a href="index.php"><img src="img/logo.png" alt="" title="" /></a>
 			      </div>
 			      
 				  <?php if (($_SESSION['login']) == 'validated') {
@@ -48,11 +48,11 @@
 			          </li>
 			          <li><a href="contact.html">Contact</a></li>
 			    </ul>
-				
-				 </nav><!-- #nav-menu-container -->
 				<span class="button-group-area mt-10">
 						<a href="./login/logout.php" class="genric-btn primary circle">Salir</a>
-					</span>   
+				</span>
+				 </nav><!-- #nav-menu-container -->
+				   
 <?php }else{ ?>
 				<nav id="nav-menu-container button-area">
 				<span class="button-group-area mt-40">
