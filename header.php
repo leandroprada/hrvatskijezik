@@ -9,12 +9,13 @@
 			      <div id="logo">
 			        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
 			      </div>
-			      <nav id="nav-menu-container button-area">
+			      
 				  <?php if (($_SESSION['login']) == 'validated') {
 ?>
-					<span class="button-group-area mt-10">
+					<div class="button-group-area mt-10">
 						<a href="./login/logout.php" class="genric-btn primary circle">Salir</a>
-					</span>    
+					</div>    
+				<nav id="nav-menu-container button-area">	
 				<ul class="nav-menu ">
 				      <li><a href="index.php">Inicio</a></li>
 					  <li><a href="about.html">El curso</a></li>
@@ -49,9 +50,10 @@
 			          <li><a href="contact.html">Contact</a></li>
 			    </ul>
 <?php }else{ ?>
-    <span class="button-group-area mt-40">
+				<nav id="nav-menu-container button-area">
+				<span class="button-group-area mt-40">
 						<a href="./login/login.php" class="genric-btn danger circle">Ingreso<span class="lnr lnr-arrow-right"></span></a>
-	</span>
+			    </span>	
 <?php } ?>
 			      
 			      </nav><!-- #nav-menu-container -->
