@@ -1,8 +1,6 @@
 <?php
  session_start();
 
-
-
 ?>
 
   <header id="header">
@@ -15,7 +13,7 @@
 			        <ul class="nav-menu">
 			          <li><a href="index.php">Inicio</a></li>
 					  
-					  <?php if (($_SESSION['login']) == 'validated') {}
+					  <?php if (($_SESSION['login']) == 'validated') {
 ?>
 
 <li><a href="about.html">El curso</a></li>
