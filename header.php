@@ -1,3 +1,12 @@
+<?php
+ session_start();
+
+ 
+ }
+
+
+?>
+
   <header id="header">
 		    <div class="container main-menu">
 		    	<div class="row align-items-center justify-content-between d-flex">
