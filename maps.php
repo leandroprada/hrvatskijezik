@@ -180,9 +180,15 @@
 								<h3 class="center">Persona</h3>
 								<img class="img-fluid map" src="img/maps/persona.jpg" alt="" usemap="#image-mappe">
 								<map name="image-mappe">
-								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
-								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
-								</map>
+								<area target="" alt="pie - stopalo" title="pie - stopalo" href="" coords="207,567,225,571,234,565,247,562,250,549,243,535,240,528,231,527,221,531,213,547" shape="poly">	
+								<area target="" alt="pierna - noga" title="pierna - noga" href="" coords="239,523,231,520,222,524,220,486,217,467,224,441,218,399,212,353,226,327,246,313,249,301,256,319,258,366,251,426,255,455,246,506" shape="poly">
+								<area target="" alt="mano - saka" title="mano - saka" href="" coords="191,247,188,260,202,267,212,272,222,254,220,241,205,240" shape="poly">
+								<area target="" alt="brazo - ruka" title="brazo - ruka" href="" coords="161,169,181,193,154,231,172,240,193,245,184,263,161,258,133,254,124,239,132,209,141,198,150,182" shape="poly">
+								<area target="" alt="cabeza - glava" title="cabeza - glava" href="" coords="214,148,228,169,242,162,255,141,261,107,252,96,238,93,221,106,215,124" shape="poly">
+								<area target="" alt="pecho - prsa" title="pecho - prsa" href="" coords="179,176,258,188,248,230,222,228,197,228,179,227" shape="poly">
+								<area target="" alt="rodilla - koljeno" title="rodilla - koljeno" href="" coords="175,422,20" shape="circle">
+								<area target="" alt="dedo - prst" title="dedo - prst" href="" coords="270,252,11" shape="circle">
+							</map>
 							</div>
 						</div>
 						
