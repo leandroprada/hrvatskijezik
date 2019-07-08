@@ -136,8 +136,8 @@
 								<h3 class="center">La Tierra y La Luna</h3>
 								<img class="img-fluid" src="img/maps/departamento.jpg" alt="" usemap="#image-mapde">
 								<map name="image-mapde">
-								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="1,956,156,149,473,147,638,845,638,958" shape="poly">
-								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="154,177,482,174,502,279,135,283" shape="poly">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
 								</map>
 							</div>
 						</div>
