@@ -142,8 +142,93 @@
 							</div>
 						</div>
 						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Casa</h3>
+								<img class="img-fluid" src="img/maps/casa.jpg" alt="" usemap="#image-mapca">
+								<map name="image-mapca">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
 						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Living</h3>
+								<img class="img-fluid" src="img/maps/living.jpg" alt="" usemap="#image-mapli">
+								<map name="image-mapli">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
 						
+							<div class="col-lg-12">
+							<div>
+								<h3 class="center">Cocina</h3>
+								<img class="img-fluid" src="img/maps/cocina.jpg" alt="" usemap="#image-mapco">
+								<map name="image-mapco">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
+						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Habitaci&oacute;n</h3>
+								<img class="img-fluid" src="img/maps/habitacion.jpg" alt="" usemap="#image-mapha">
+								<map name="image-mapha">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
+						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Ba&ntilde;o</h3>
+								<img class="img-fluid" src="img/maps/bath.jpg" alt="" usemap="#image-mapba">
+								<map name="image-mapba">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
+						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Mesa</h3>
+								<img class="img-fluid" src="img/maps/mesa.jpg" alt="" usemap="#image-mapme">
+								<map name="image-mapme">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
+						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Persona</h3>
+								<img class="img-fluid" src="img/maps/persona.jpg" alt="" usemap="#image-mappe">
+								<map name="image-mappe">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
+						
+						<div class="col-lg-12">
+							<div>
+								<h3 class="center">Cara</h3>
+								<img class="img-fluid" src="img/maps/cara.jpg" alt="" usemap="#image-mapcr">
+								<map name="image-mapcr">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
+								</map>
+							</div>
+						</div>
 						
 						
 					</div>
