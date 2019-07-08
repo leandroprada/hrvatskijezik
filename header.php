@@ -33,16 +33,17 @@
 			          </li>
 			          <li class="menu-has-children"><a href="">Recursos</a>
 			            <ul>
-                    <li><a href="abeceda.php">Abecedario</a></li>
-    			          <li><a href="padezi.php">Declinaciones</a></li>
-                    <li><a href="elements.php">Diccionario</a></li>
-		            	  <li><a href="dobrodosli2.php">Dobro Dosli</a></li>
-				          <li class="menu-has-children"><a href="">Links </a>
-				            <ul>
-				              <li><a href="#">Item One</a></li>
-				              <li><a href="#">Item Two</a></li>
-				            </ul>
-				          </li>
+							<li><a href="abeceda.php">Abecedario</a></li>
+							<li><a href="padezi.php">Declinaciones</a></li>
+							<li><a href="elements.php">Diccionario</a></li>
+							<li><a href="maps.php">Im&aacute;genes</a></li>
+							<li><a href="dobrodosli2.php">Dobro Dosli</a></li>
+							  <li class="menu-has-children"><a href="">Links </a>
+								<ul>
+								  <li><a href="#">Item One</a></li>
+								  <li><a href="#">Item Two</a></li>
+								</ul>
+							  </li>
 			            </ul>
 			          </li>
 			          <li><a href="contact.html">Contact</a></li>
