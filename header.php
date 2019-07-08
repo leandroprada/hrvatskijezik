@@ -12,8 +12,8 @@
 			      <nav id="nav-menu-container">
 				  <?php if (($_SESSION['login']) == 'validated') {
 ?>
-					<div class="button-group-area mt-10">
-						<a href="./login/logout.php" class="btn info-border circle arrow">Salir<span class="lnr lnr-arrow-right"></span></a>
+					<div class="button-group-area mt-40">
+						<a href="./login/logout.php" class="genric-btn default circle">Salir<span class="lnr lnr-arrow-right"></span></a>
 					</div>			    
 				<ul class="nav-menu">
 					
@@ -50,8 +50,8 @@
 			          <li><a href="contact.html">Contact</a></li>
 			    </ul>
 <?php }else{ ?>
-    <li><p class="button-group-area mt-10">
-						<a href="./login/login.php" class="btn danger-border circle arrow">Ingreso<span class="lnr lnr-arrow-right"></span></a>
+    <li><p class="button-group-area mt-40">
+						<a href="./login/login.php" class="genric-btn danger circle">Ingreso<span class="lnr lnr-arrow-right"></span></a>
 	</p></li>
 <?php } ?>
 			      
