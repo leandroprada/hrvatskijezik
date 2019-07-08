@@ -13,7 +13,7 @@
 				  <?php if (($_SESSION['login']) == 'validated') {
 ?>
 					   
-				<nav id="nav-menu-container button-area">	
+				<nav id="nav-menu-container">	
 				<ul class="nav-menu ">
 				      <li><a href="index.php">Inicio</a></li>
 					  <li><a href="about.html">El curso</a></li>
