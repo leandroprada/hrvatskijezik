@@ -96,7 +96,7 @@
 			<!-- End banner Area -->					  
 			
 		<!-- Start post-content Area -->
-		
+		<script> $('.map').maphilight() </script>
 			<section class="post-content-area single-post-area">
 				<div class="container">
 					<div class="row">
