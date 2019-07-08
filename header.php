@@ -12,11 +12,11 @@
 			      <nav id="nav-menu-container">
 				  <?php if (($_SESSION['login']) == 'validated') {
 ?>
-					<div class="button-group-area mt-40">
-						<a href="./login/logout.php" class="genric-btn default circle">Salir<span class="lnr lnr-arrow-right"></span></a>
-					</div>			    
+							    
 				<ul class="nav-menu">
-					
+					<li><span class="button-group-area mt-40">
+						<a href="./login/logout.php" class="genric-btn default circle">Salir<span class="lnr lnr-arrow-right"></span></a>
+					</span>	</li>
 			          <li><a href="index.php">Inicio</a></li>
 					  <li><a href="about.html">El curso</a></li>
 			          <li><a href="services.html">Servicios</a></li>
@@ -50,9 +50,9 @@
 			          <li><a href="contact.html">Contact</a></li>
 			    </ul>
 <?php }else{ ?>
-    <li><p class="button-group-area mt-40">
+    <li><span class="button-group-area mt-40">
 						<a href="./login/login.php" class="genric-btn danger circle">Ingreso<span class="lnr lnr-arrow-right"></span></a>
-	</p></li>
+	</span></li>
 <?php } ?>
 			      
 			      </nav><!-- #nav-menu-container -->
