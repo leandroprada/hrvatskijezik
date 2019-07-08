@@ -75,11 +75,15 @@
 							<img class="img-fluid" src="img/about-img.png" alt="">
 						</div>
 						<div class="col-lg-5 col-md-6 home-about-right">
-							<h6>About Me</h6>
-							<h1 class="text-uppercase">Personal Details</h1>
-							<p>
-								Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-							</p>
+							<h6>La lengua </h6>
+							<h1 class="text-uppercase">Algunos Datos</h1>
+							<ul>
+								 <li>El croata es hablado principalmente en Croacia, en donde es oficial, as&iacute; como en las zonas de Bosnia y Herzegovina, Eslovenia, Serbia, Macedonia del Norte, Montenegro y Kosovo habitadas por croatas.</li>
+								 <li>El idioma croata se subdivide tres dialectos: Čakavski, Štokavski y Kajkavski. El čakavski es hablado en Istria, el golfo de Kvarner, el litoral de Dalmacia y en algunas regiones del centro de Croacia. El štokavski se habla principalmente en Dalmacia y Eslavonia, y por último, el kajkavski es hablado en el norte y noroeste de Croacia.</li>
+								 <li>El alfabeto croata es el usado en el idioma croata creado por el croata Ljudevit Gaj. Consta de 30 letras. Gaj, siguiendo el modelo checo incorporó las letras C, S, Z y Č, Š, Ž.</li>
+								 
+							</ul>
+							<span style="font-size:0.3em">Fuente Wikipedia https://es.wikipedia.org/wiki/Idioma_croata</span>
 							<a href="#" class="primary-btn text-uppercase">View Full Details</a>
 						</div>
 					</div>
