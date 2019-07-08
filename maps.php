@@ -104,7 +104,7 @@
 						<div class="col-lg-12">
 							<div >
 								<h3 class="center">Los Planetas</h3>
-								<img class="img-fluid" src="img/maps/sistemasolar.jpg" alt="" usemap="#image-mapss">
+								<img class="img-fluid map" src="img/maps/sistemasolar.jpg" alt="" usemap="#image-mapss">
 								<map name="image-mapss">
 								<area target="" alt="mercurio" title="mercurio" href="" coords="110,159,13" shape="circle">
 								<area target="" alt="sol" title="sol - sunce" href="" coords="1,319,30,317,71,254,82,178,77,115,62,65,44,31,23,1,2,1,1,165" shape="poly">
@@ -123,7 +123,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">La Tierra y La Luna</h3>
-								<img class="img-fluid" src="img/maps/tierraluna.jpg" alt="" usemap="#image-maptl">
+								<img class="img-fluid map" src="img/maps/tierraluna.jpg" alt="" usemap="#image-maptl">
 								<map name="image-maptl">
 								<area target="" alt="La Tierra - Zemlja" title="La Tierra - Zemlja" href="" coords="355,241,238" shape="circle">
 								<area target="" alt="La Luna - Mjesec" title="La Luna - Mjesec" href="" coords="767,387,63" shape="circle">
@@ -134,7 +134,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Edificio y Departamento</h3>
-								<img class="img-fluid" src="img/maps/departamento.jpg" alt="" usemap="#image-mapde">
+								<img class="img-fluid map" src="img/maps/departamento.jpg" alt="" usemap="#image-mapde">
 								<map name="image-mapde">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -145,7 +145,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Casa</h3>
-								<img class="img-fluid" src="img/maps/casa.jpg" alt="" usemap="#image-mapca">
+								<img class="img-fluid map" src="img/maps/casa.jpg" alt="" usemap="#image-mapca">
 								<map name="image-mapca">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -156,7 +156,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Living</h3>
-								<img class="img-fluid" src="img/maps/living.jpg" alt="" usemap="#image-mapli">
+								<img class="img-fluid map" src="img/maps/living.jpg" alt="" usemap="#image-mapli">
 								<map name="image-mapli">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -167,7 +167,7 @@
 							<div class="col-lg-12">
 							<div>
 								<h3 class="center">Cocina</h3>
-								<img class="img-fluid" src="img/maps/cocina.jpg" alt="" usemap="#image-mapco">
+								<img class="img-fluid map" src="img/maps/cocina.jpg" alt="" usemap="#image-mapco">
 								<map name="image-mapco">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -178,7 +178,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Habitaci&oacute;n</h3>
-								<img class="img-fluid" src="img/maps/habitacion.jpg" alt="" usemap="#image-mapha">
+								<img class="img-fluid map" src="img/maps/habitacion.jpg" alt="" usemap="#image-mapha">
 								<map name="image-mapha">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -189,7 +189,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Ba&ntilde;o</h3>
-								<img class="img-fluid" src="img/maps/bath.jpg" alt="" usemap="#image-mapba">
+								<img class="img-fluid map" src="img/maps/bath.jpg" alt="" usemap="#image-mapba">
 								<map name="image-mapba">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -200,7 +200,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Mesa</h3>
-								<img class="img-fluid" src="img/maps/mesa.jpg" alt="" usemap="#image-mapme">
+								<img class="img-fluid map" src="img/maps/mesa.jpg" alt="" usemap="#image-mapme">
 								<map name="image-mapme">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -211,7 +211,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Persona</h3>
-								<img class="img-fluid" src="img/maps/persona.jpg" alt="" usemap="#image-mappe">
+								<img class="img-fluid map" src="img/maps/persona.jpg" alt="" usemap="#image-mappe">
 								<map name="image-mappe">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -222,7 +222,7 @@
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Cara</h3>
-								<img class="img-fluid" src="img/maps/cara.jpg" alt="" usemap="#image-mapcr">
+								<img class="img-fluid map" src="img/maps/cara.jpg" alt="" usemap="#image-mapcr">
 								<map name="image-mapcr">
 								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
 								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
@@ -298,8 +298,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 				</div>
             </footer>
             <!-- End footer Area -->		
-
+			
+			
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/maphilight/1.4.0/jquery.maphilight.min.js"></script>
 			<script src="js/popper.min.js"></script>
 			<script src="js/vendor/bootstrap.min.js"></script>			
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>			
