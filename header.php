@@ -49,14 +49,20 @@
 			          </li>
 			          <li><a href="contact.html">Contact</a></li>
 			    </ul>
+				
+				 </nav><!-- #nav-menu-container -->
+				<span class="button-group-area mt-10">
+						<a href="./login/logout.php" class="genric-btn primary circle">Salir</a>
+					</span>   
 <?php }else{ ?>
 				<nav id="nav-menu-container button-area">
 				<span class="button-group-area mt-40">
 						<a href="./login/login.php" class="genric-btn danger circle">Ingreso<span class="lnr lnr-arrow-right"></span></a>
 			    </span>	
+				</nav><!-- #nav-menu-container -->
 <?php } ?>
 			      
-			      </nav><!-- #nav-menu-container -->
+			     
 		    	</div>
 		    </div>
 		  </header><!-- #header -->
