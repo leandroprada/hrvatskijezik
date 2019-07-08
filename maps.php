@@ -1,3 +1,14 @@
+<?php
+ session_start();
+
+ if (($_SESSION['login']) !== 'validated') {
+
+	 echo "Su usuario NO ESTÁ AUTORIZADO";
+	  header("Location: ./login/login.php");
+ }
+
+
+?>
 	<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
@@ -84,7 +95,7 @@
 			</section>
 			<!-- End banner Area -->					  
 			
-			<!-- Start post-content Area -->
+		<!-- Start post-content Area -->
 		
 			<section class="post-content-area single-post-area">
 				<div class="container">
@@ -93,24 +104,59 @@
 						<div class="col-lg-12">
 							<div class="col-lg-12 ">
 								<h3 class="center">Los Planetas</h3>
-								<img class="img-fluid" src="img/maps/sistemasolar.jpg" alt="" usemap="#image-map">
-								<map name="image-map">
+								<img class="img-fluid" src="img/maps/sistemasolar.jpg" alt="" usemap="#image-mapss">
+								<map name="image-mapss">
 								<area target="" alt="mercurio" title="mercurio" href="" coords="110,159,13" shape="circle">
-								<area target="" alt="sol" title="sol" href="" coords="1,319,30,317,71,254,82,178,77,115,62,65,44,31,23,1,2,1,1,165" shape="poly">
+								<area target="" alt="sol" title="sol - sunce" href="" coords="1,319,30,317,71,254,82,178,77,115,62,65,44,31,23,1,2,1,1,165" shape="poly">
 								<area target="" alt="venus" title="venus - venera" href="" coords="161,161,21" shape="circle">
-								<area target="" alt="tierra" title="tierra" href="" coords="231,159,23" shape="circle">
-								<area target="" alt="luna" title="luna" href="" coords="253,127,10" shape="circle">
-								<area target="" alt="marte" title="marte" href="" coords="303,157,21" shape="circle">
-								<area target="" alt="jupiter" title="jupiter" href="" coords="453,157,105" shape="circle">
-								<area target="" alt="saturno" title="saturno" href="" coords="601,161,52" shape="circle">
+								<area target="" alt="tierra" title="tierra - zemlja" href="" coords="231,159,23" shape="circle">
+								<area target="" alt="luna" title="luna - mjesec" href="" coords="253,127,10" shape="circle">
+								<area target="" alt="marte" title="marte - mars" href="" coords="303,157,21" shape="circle">
+								<area target="" alt="jupiter" title="jupiter - jupiter" href="" coords="453,157,105" shape="circle">
+								<area target="" alt="saturno" title="saturno - saturn" href="" coords="601,161,52" shape="circle">
 								<area target="" alt="neptuno" title="neptuno" href="" coords="747,158,49" shape="circle">
 								<area target="" alt="urano" title="urano" href="" coords="858,160,45" shape="circle">
 								</map>
 							</div>
 						</div>	
+						
+						<div class="col-lg-12">
+							<div class="col-lg-12 ">
+								<h3 class="center">La Tierra y La Luna</h3>
+								<img class="img-fluid" src="img/maps/tierraluna.jpg" alt="" usemap="#image-maptl">
+								<map name="image-maptl">
+								<area target="" alt="Tierra -  Zemlja" title="Tierra -  Zemlja" href="" coords="714,481,491" shape="circle">
+								<area target="" alt="Luna - Mjesec" title="Luna - Mjesec" href="" coords="1531,773,125" shape="circle">
+								</map>
+							</div>
+						</div>	
+						
+						<div class="col-lg-12">
+							<div class="col-lg-12 ">
+								<h3 class="center">La Tierra y La Luna</h3>
+								<img class="img-fluid" src="img/maps/departamento.jpg" alt="" usemap="#image-mapde">
+								<map name="image-mapde">
+								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="1,956,156,149,473,147,638,845,638,958" shape="poly">
+								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="154,177,482,174,502,279,135,283" shape="poly">
+								</map>
+							</div>
+						</div>
+						
+						
+						
+						
+						
 					</div>
 				</div>
 			</section>
+			
+			
+			
+			
+		
+			
+			
+			<!-- End post-content Area -->
 			
             <!-- start footer Area -->
             <footer class="footer-area section-gap">
@@ -160,6 +206,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                         </div>
                     </div>
                 </div>
+				<div>Photo by Marlene Leppänen from Pexels - 
+				Photo by Binyamin Mellish from Pexels - 
+				Photo by Milly Eaton from Pexels - Photo by Vincent Rivaud from Pexels - Photo by Christa Grover from Pexels - Photo by Derick Santos from Pexels
+				
+				</div>
             </footer>
             <!-- End footer Area -->		
 
