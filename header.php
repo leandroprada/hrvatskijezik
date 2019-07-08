@@ -16,10 +16,11 @@
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
 			          <li><a href="index.php">Inicio</a></li>
-			          <?php
-						if (($_SESSION['login']) == 'validated') {
+					  
+					  <?php if (($_SESSION['login']) == 'validated') {}
+?>
 
-	 echo "			  <li><a href="about.html">El curso</a></li>
+<li><a href="about.html">El curso</a></li>
 			          <li><a href="services.html">Servicios</a></li>
 			          			          <li class="menu-has-children"><a href="">Lecciones</a>
 			            <ul>
@@ -54,19 +55,12 @@
 					<div class="button-group-area mt-10">
 						<a href="./login/logout.php" class="genric-btn info-border circle arrow">Salir<span class="lnr lnr-arrow-right"></span></a>
 					</div>
-					";
-	  
- }
- else {
-	 echo "<div class="button-group-area mt-10">
+<?php }else{ ?>
+    <div class="button-group-area mt-10">
 						<a href="./login/login.php" class="genric-btn danger-border circle arrow">Ingreso<span class="lnr lnr-arrow-right"></span></a>
 	</div>";
-	 
- }
-	 
-
-
-?>
+<?php } ?>
+			      
 			      </nav><!-- #nav-menu-container -->
 		    	</div>
 		    </div>
