@@ -48,13 +48,13 @@
 			          </li>
 			          <li><a href="contact.html">Contact</a></li>
 			        
-					<li><span class="button-group-area mt-10">
+					<li><p class="button-group-area mt-10">
 						<a href="./login/logout.php" class="genric-btn info-border circle arrow">Salir<span class="lnr lnr-arrow-right"></span></a>
-					</span></li>
+					</p></li>
 <?php }else{ ?>
-    <li><span class="button-group-area mt-10">
+    <li><p class="button-group-area mt-10">
 						<a href="./login/login.php" class="genric-btn danger-border circle arrow">Ingreso<span class="lnr lnr-arrow-right"></span></a>
-	</span></li>
+	</p></li>
 <?php } ?>
 			      </ul>
 			      </nav><!-- #nav-menu-container -->
