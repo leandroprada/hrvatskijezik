@@ -27,7 +27,7 @@
 		<!-- Site Title -->
 		<title>Personal</title>
 
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 			<!--
 			CSS
 			============================================= -->
@@ -35,39 +35,39 @@
 			<link rel="stylesheet" href="css/font-awesome.min.css">
 			<link rel="stylesheet" href="css/bootstrap.css">
 			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/jquery-ui.css">				
-			<link rel="stylesheet" href="css/nice-select.css">							
+			<link rel="stylesheet" href="css/jquery-ui.css">
+			<link rel="stylesheet" href="css/nice-select.css">
 			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">					
+			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
 		</head>
-		<body>	
+		<body>
 		  <?php require "header.php";
 
 		?>
-		  
+
 			<!-- start banner Area -->
-			<section class="relative about-banner">	
+			<section class="relative about-banner">
 				<div class="overlay overlay-bg"></div>
-				<div class="container">				
+				<div class="container">
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Imágenes				
-							</h1>	
+								Imágenes
+							</h1>
 							<p class="text-white link-nav"><a href="index.html"><a href="blog-home.html">Al pasar por cada imagen</a> <span class="lnr lnr-arrow-right"></span> <a href="blog-single.html"> Se ven los nombres</a></p>
-						</div>	
+						</div>
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->					  
-			
+			<!-- End banner Area -->
+
 		<!-- Start post-content Area -->
-		
+
 			<section class="post-content-area single-post-area">
 				<div class="container">
 					<div class="row">
-						
+
 						<div class="col-lg-12">
 							<div >
 								<h3 class="center">Los Planetas</h3>
@@ -85,8 +85,8 @@
 								<area target="" alt="urano" title="urano" href="" coords="858,160,45" shape="circle">
 								</map>
 							</div>
-						</div>	
-						
+						</div>
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">La Tierra y La Luna</h3>
@@ -96,8 +96,8 @@
 								<area target="" alt="La Luna - Mjesec" title="La Luna - Mjesec" href="" coords="767,387,63" shape="circle">
 								</map>
 							</div>
-						</div>	
-						
+						</div>
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Edificio y Departamento</h3>
@@ -108,18 +108,22 @@
 								</map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Casa</h3>
 								<img class="img-fluid map" src="img/maps/casa.jpg" alt="" usemap="#image-mapca">
 								<map name="image-mapca">
-								<area target="" alt="departamento - stan" title="departamento - stan" href="" coords="103,120,319,117,334,184,90,188" shape="poly">
-								<area target="" alt="edificio - zgrada" title="edificio - zgrada" href="" coords="0,637,426,638,425,565,315,100,105,98" shape="poly">
-								</map>
+                  <area target="" alt="garage - garaza" title="garage - garaza" href="" coords="544,561,326,447" shape="rect">
+                  <area target="" alt="arbol - stablo" title="arbol - stablo" href="" coords="807,591,805,517,750,463,814,322,868,499,820,519,818,592,813,603" shape="poly">
+                  <area target="" alt="ventana - prozor" title="ventana - prozor" href="" coords="465,306,548,382" shape="rect">
+                  <area target="" alt="puerta - vrata" title="puerta - vrata" href="" coords="581,452,625,547" shape="rect">
+                  <area target="" alt="techo - krov" title="techo - krov" href="" coords="121,433,646,425,754,339,868,421,789,286,659,277,653,257,588,256,582,221,493,220,443,182,387,223,326,220,302,285,193,282,139,391" shape="poly">
+                  <area target="" alt="cielo - nebo" title="cielo - nebo" href="" coords="113,433,0,433,0,1,955,0,957,316,904,342,906,356,925,358,930,417,878,431,785,276,645,253,437,181,390,216,322,219,298,279,185,278" shape="poly">
+              </map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Living</h3>
@@ -130,7 +134,7 @@
 								</map>
 							</div>
 						</div>
-						
+
 							<div class="col-lg-12">
 							<div>
 								<h3 class="center">Cocina</h3>
@@ -141,7 +145,7 @@
 								</map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Habitaci&oacute;n</h3>
@@ -152,7 +156,7 @@
 								</map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Ba&ntilde;o</h3>
@@ -163,7 +167,7 @@
 								</map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Mesa</h3>
@@ -174,13 +178,13 @@
 								</map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Persona</h3>
 								<img class="img-fluid map" src="img/maps/persona.jpg" alt="" usemap="#image-mappe">
 								<map name="image-mappe">
-								<area target="" alt="pie - stopalo" title="pie - stopalo" href="" coords="207,567,225,571,234,565,247,562,250,549,243,535,240,528,231,527,221,531,213,547" shape="poly">	
+								<area target="" alt="pie - stopalo" title="pie - stopalo" href="" coords="207,567,225,571,234,565,247,562,250,549,243,535,240,528,231,527,221,531,213,547" shape="poly">
 								<area target="" alt="pierna - noga" title="pierna - noga" href="" coords="239,523,231,520,222,524,220,486,217,467,224,441,218,399,212,353,226,327,246,313,249,301,256,319,258,366,251,426,255,455,246,506" shape="poly">
 								<area target="" alt="mano - saka" title="mano - saka" href="" coords="191,247,188,260,202,267,212,272,222,254,220,241,205,240" shape="poly">
 								<area target="" alt="brazo - ruka" title="brazo - ruka" href="" coords="161,169,181,193,154,231,172,240,193,245,184,263,161,258,133,254,124,239,132,209,141,198,150,182" shape="poly">
@@ -191,7 +195,7 @@
 							</map>
 							</div>
 						</div>
-						
+
 						<div class="col-lg-12">
 							<div>
 								<h3 class="center">Cara</h3>
@@ -211,20 +215,20 @@
 								</map>
 							</div>
 						</div>
-						
-						
+
+
 					</div>
 				</div>
 			</section>
-			
-			
-			
-			
-		
-			
-			
+
+
+
+
+
+
+
 			<!-- End post-content Area -->
-			
+
             <!-- start footer Area -->
             <footer class="footer-area section-gap">
                 <div class="container">
@@ -251,11 +255,11 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									    <div class="input-group-btn">
 									      <button class="btn btn-default" type="submit">
 									        <span class="lnr lnr-arrow-right"></span>
-									      </button>    
+									      </button>
 									    </div>
-									    	<div class="info"></div>  
+									    	<div class="info"></div>
 									  </div>
-									</form> 
+									</form>
 								</div>
                             </div>
                         </div>
@@ -273,33 +277,33 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                         </div>
                     </div>
                 </div>
-				<div>Photo by Marlene Leppänen from Pexels - 
-				Photo by Binyamin Mellish from Pexels - 
+				<div>Photo by Marlene Leppänen from Pexels -
+				Photo by Binyamin Mellish from Pexels -
 				Photo by Milly Eaton from Pexels - Photo by Vincent Rivaud from Pexels - Photo by Christa Grover from Pexels - Photo by Derick Santos from Pexels
-				
+
 				</div>
             </footer>
-            <!-- End footer Area -->		
-			
-			
+            <!-- End footer Area -->
+
+
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/maphilight/1.4.0/jquery.maphilight.min.js"></script>
 			<script src="js/popper.min.js"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>			
-  			<script src="js/easing.min.js"></script>			
+			<script src="js/vendor/bootstrap.min.js"></script>
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="js/easing.min.js"></script>
 			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
+			<script src="js/superfish.min.js"></script>
 			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>	
-    		<script src="js/jquery.tabs.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>	
-            <script src="js/isotope.pkgd.min.js"></script>			
+			<script src="js/jquery.magnific-popup.min.js"></script>
+    		<script src="js/jquery.tabs.min.js"></script>
+			<script src="js/jquery.nice-select.min.js"></script>
+            <script src="js/isotope.pkgd.min.js"></script>
 			<script src="js/waypoints.min.js"></script>
 			<script src="js/jquery.counterup.min.js"></script>
-			<script src="js/simple-skillbar.js"></script>							
-			<script src="js/owl.carousel.min.js"></script>							
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
+			<script src="js/simple-skillbar.js"></script>
+			<script src="js/owl.carousel.min.js"></script>
+			<script src="js/mail-script.js"></script>
+			<script src="js/main.js"></script>
 		</body>
 	</html>
