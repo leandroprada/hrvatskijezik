@@ -3,7 +3,6 @@
 <?php
 session_destroy();
 $password = $_POST['password'];
-$hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 ?>
 
 <!DOCTYPE html>
