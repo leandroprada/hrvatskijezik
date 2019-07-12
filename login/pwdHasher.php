@@ -31,11 +31,14 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="css/util.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="../css/loginutil.css">
+	<link rel="stylesheet" type="text/css" href="../css/loginmain.css">
 <!--===============================================================================================-->
 </head>
 <body>
+<?php require "header.php";
+
+		?>
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
