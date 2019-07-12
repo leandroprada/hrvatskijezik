@@ -34,9 +34,18 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 	<link rel="stylesheet" type="text/css" href="../css/loginutil.css">
 	<link rel="stylesheet" type="text/css" href="../css/loginmain.css">
 <!--===============================================================================================-->
+			<link rel="stylesheet" href="../css/linearicons.css">
+			<link rel="stylesheet" href="../css/font-awesome.min.css">
+			<link rel="stylesheet" href="../css/bootstrap.css">
+			<link rel="stylesheet" href="../css/magnific-popup.css">
+			<link rel="stylesheet" href="../css/jquery-ui.css">
+			<link rel="stylesheet" href="../css/nice-select.css">
+			<link rel="stylesheet" href="../css/animate.min.css">
+			<link rel="stylesheet" href="../css/owl.carousel.css">
+			<link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
-<?php require "header.php";
+<?php require "../headeradmin.php";
 
 		?>
 	<div class="limiter">
