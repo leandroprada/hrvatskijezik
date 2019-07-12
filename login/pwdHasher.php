@@ -69,7 +69,7 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 						<span class="txt1 p-b-11">
 						HASH
 						</span>
-						<span class="txt2 p-b-10">
+						<span class="txt2 p-b-8">
 						
 						
 						<?php
