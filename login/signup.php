@@ -5,7 +5,7 @@ require 'dbconn.inc.php';
 
  $username = $_POST['username'];
  $password = $_POST['password'];
- $sql = "SELECT username FROM users WHERE username=? AND password=?";
+ $sql = "SELECT username FROM users WHERE username=?";
  $stmt = mysqli_stmt_init($conn);
 
  if (!mysqli_stmt_prepare($stmt, $sql)){
@@ -16,7 +16,7 @@ require 'dbconn.inc.php';
 	  else {
 		  $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 		  
-		  mysqli_stmt_bind_param ($stmt, "ss", $username, $hashedPwd);
+		  mysqli_stmt_bind_param ($stmt, "s", $username);
 		  mysqli_stmt_execute($stmt);
 		  mysqli_stmt_store_result($stmt);
 		  $resultCheck = mysqli_stmt_num_rows($stmt);
