@@ -46,7 +46,7 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 						 if ($password != null) {
 						echo $password;
 						} else {
-							echo "No hay una password";
+							echo "No stored password";
 						}
 						
 						?>
@@ -69,6 +69,8 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 						<span class="txt1 p-b-11">
 						HASH
 						</span>
+						<span class="txt2 p-b-10">
+						
 						
 						<?php
 						 if ($hashedPwd != null) {
@@ -77,7 +79,8 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 							echo "No hay un hash";
 						}
 						
-						?>"						
+						?>"	
+</span>						
 					</div>
 					
 					
