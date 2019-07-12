@@ -56,7 +56,7 @@
 <?php }else{ ?>
 				<nav id="nav-menu-container button-area">
 				<span class="button-group-area mt-40">
-						<a href="./login/login.php" class="genric-btn danger circle">Ingreso<span class="lnr lnr-arrow-right"></span></a>
+						<a href="../login/login.php" class="genric-btn danger circle">Ingreso<span class="lnr lnr-arrow-right"></span></a>
 			    </span>	
 				</nav><!-- #nav-menu-container -->
 <?php } ?>
