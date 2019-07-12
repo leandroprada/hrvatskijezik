@@ -45,7 +45,7 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 			<link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
-<?php require "../headeradmin.php";
+<?php require "headeradmin.php";
 
 		?>
 	<div class="limiter">
