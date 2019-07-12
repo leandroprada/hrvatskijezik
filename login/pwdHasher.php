@@ -1,7 +1,7 @@
 
 
 <?php
- session_start();
+ session_destroy();
 $password = $_POST['password'];
 $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 ?>
@@ -41,7 +41,12 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 			<div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
 				<form class="login100-form validate-form flex-sb flex-w" action="signup.php" method="post">
 					<span class="login100-form-title p-b-32">
-						PASSWORD HASHER 
+						PASSWORD HASHER  - Current password is: <?php
+
+ if $password == null {
+ echo "not hashed yet";}
+
+?>
 					</span>
 
 					
@@ -58,12 +63,9 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 					</div>
 					
 					<div> YOUR HASHED PASSWORD IS: 
-					
-					<input class="input100" type="text" name="" >
-							<?php
-								 echo $hashedPwd;
-								?>
-
+					<?php 
+					$hashedPwd = password_hash($password, PASSWORD_DEFAULT);
+					echo $hashedPwd; ?>
 					</div>
 
 					<div class="container-login100-form-btn">
