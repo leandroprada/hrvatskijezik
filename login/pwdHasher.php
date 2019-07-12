@@ -1,7 +1,7 @@
 
 
 <?php
- session_destroy();
+session_destroy();
 $password = $_POST['password'];
 $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 ?>
@@ -39,14 +39,15 @@ $hashedPwd = password_hash($password, PASSWORD_DEFAULT);
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100 p-l-85 p-r-85 p-t-55 p-b-55">
-				<form class="login100-form validate-form flex-sb flex-w" action="signup.php" method="post">
+				<form class="login100-form validate-form flex-sb flex-w" action="pwdHasher.php" method="post">
 					<span class="login100-form-title p-b-32">
 						PASSWORD HASHER  - Current password is: <?php
 
- if $password == null {
- echo "not hashed yet";}
+						 if $password == null {
+							 $msg = "not hashed yet";
+						 echo $msg;}
 
-?>
+						?>
 					</span>
 
 					
